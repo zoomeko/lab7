@@ -1,0 +1,8 @@
+This file is a placeholder to make git add the otherwise empty directory to the repository.
+Read and write all of the Ticket program files from/to this directory. Use the
+
+String ticketDataDirectory = "TicketData";
+
+variable in Question_3_Support_Ticket_Manager.
+
+The tests will change this to a test directory to avoid modifying your files. Otherwise the tests might overwrite your data.

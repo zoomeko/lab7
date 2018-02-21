@@ -1,0 +1,22 @@
+{ "week" : 7 ,
+  "questions" : [
+    {
+      "question" : 1,
+      "java_file": "insects.Question_1_InsectManager",
+      "test_file": "insects.Question_1_InsectManagerTest",
+      "points": 4
+    },
+    {
+      "question" : 2,
+      "java_file": "service_calls.Question_2_HVAC",
+      "test_file": "service_calls.Question_2_HVACTest",
+      "points": 4
+    },
+    {
+      "question" : 3,
+      "java_file": "ticket.Question_3_Support_Ticket_Manager",
+      "test_file": "ticket.TicketTest",
+      "points": 12
+    }
+  ]
+}
